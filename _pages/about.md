@@ -12,13 +12,6 @@ My current work combines national-scale research on **infrastructure investment 
 
 Social infrastructure and spatial inequality · Geospatial accessibility · Computational social science · Research data platforms
 
-## Selected projects
-
-{% assign projects = site.portfolio | sort: 'order' %}
-{% for project in projects limit:3 %}{% include project-entry.html %}{% endfor %}
-
-[All five projects →](/projects/)
-
 ## Experience
 
 <div class="entry">
@@ -37,6 +30,14 @@ Social infrastructure and spatial inequality · Geospatial accessibility · Comp
 <p>Prepared and analysed ClinicalTrials.gov data for academic research.</p>
 </div>
 
+## Methods & tools
+
+**Data analysis:** R, tidyverse, regression, text analysis  
+**Geospatial:** sf, terra, GIS, accessibility analysis  
+**Development & reporting:** SQL, Python, agentic engineering, Quarto, R Markdown
+
+[Full CV](/cv/) · [Theses and research contributions](/research/)
+
 ## Education
 
 **M.Sc. Social Scientific Data Analysis**  
@@ -45,10 +46,10 @@ Lund University · 2023–2025
 **B.A. Sociology, minor in Economics**  
 LMU Munich · 2019–2023
 
-## Methods & tools
+## Selected projects
 
-**Data analysis:** R, tidyverse, regression, text analysis  
-**Geospatial:** sf, terra, GIS, accessibility analysis  
-**Development & reporting:** SQL, Python, agentic engineering, Quarto, R Markdown
+{% assign projects = site.portfolio | sort: 'order' %}
+{% for project in projects limit:3 %}{% include project-entry.html %}{% endfor %}
 
-[Full CV](/cv/) · [Theses and research contributions](/research/)
+[All five projects →](/projects/)
+

@@ -65,5 +65,7 @@ German and Portuguese (native) · English (fluent) · Mandarin (pre-intermediate
 
 ## Contact
 
-[fabio1s.schreiber@gmail.com](mailto:fabio1s.schreiber@gmail.com) · [GitHub](https://github.com/fab1s)
+**Work:** [fabio.schreiber@keg.lu.se](mailto:fabio.schreiber@keg.lu.se)  
+**Private:** [fabio1s.schreiber@gmail.com](mailto:fabio1s.schreiber@gmail.com)  
+[Google Scholar](https://scholar.google.com/citations?user=e9tejNQAAAAJ) · [LinkedIn](https://www.linkedin.com/in/fabio-schreiber-1b79972a7/) · [GitHub](https://github.com/fab1s)
 
