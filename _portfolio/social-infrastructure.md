@@ -27,6 +27,6 @@ The analysis uses road network-based accessibility metrics and **geographically 
 
 ## Research output
 
-Master’s thesis: *Social Infrastructure and Structural (Dis)advantage: A GIS-Based Equity Assessment*. M.Sc. Social Scientific Data Analysis, Lund University, 2025.
+[Read the thesis: *Social Infrastructure and Structural (Dis)advantage: A GIS-Based Equity Assessment*](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9209189&fileOId=9209190). It examines access to 13 types of social infrastructure across Skåne, including rural–urban and socio-demographic inequalities.
 
 [← All projects](/projects/)

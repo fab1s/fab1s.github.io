@@ -40,7 +40,7 @@ Used R to wrangle, analyse, and visualise ClinicalTrials.gov data, producing a d
 
 Interdisciplinary training in quantitative, theory-based data analysis, statistical methods, data handling in R, and research design.
 
-**Thesis:** *Social Infrastructure and Structural (Dis)advantage: A GIS-Based Equity Assessment*
+**Thesis:** [*Social Infrastructure and Structural (Dis)advantage: A GIS-Based Equity Assessment*](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9209189&fileOId=9209190)
 
 ### B.A. Sociology · Minor in Economics
 <p class="role-date">LMU Munich, Germany · 2019–2023</p>
@@ -70,4 +70,3 @@ German and Portuguese (native) · English (fluent) · Mandarin (pre-intermediate
 **Work:** [fabio.schreiber@keg.lu.se](mailto:fabio.schreiber@keg.lu.se)  
 **Private:** [fabio1s.schreiber@gmail.com](mailto:fabio1s.schreiber@gmail.com)  
 [Google Scholar](https://scholar.google.com/citations?user=e9tejNQAAAAJ) · [LinkedIn](https://www.linkedin.com/in/fabio-schreiber-1b79972a7/) · [GitHub](https://github.com/fab1s)
-
