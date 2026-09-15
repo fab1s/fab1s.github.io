@@ -1,0 +1,67 @@
+locale: en-US
+site_theme: default
+title: Fabio Schreiber
+title_separator: '-'
+name: Fabio Schreiber
+description: Research engineer working with social science, data analysis, and geospatial research.
+url: https://fab1s.github.io
+baseurl: ''
+repository: fab1s/fab1s.github.io
+author:
+  name: Fabio Schreiber
+  bio: Research Engineer · Social science and geospatial analysis
+  employer: Lund University
+  location: Sweden
+  email: fabio1s.schreiber@gmail.com
+  github: fab1s
+breadcrumbs: false
+words_per_minute: 160
+future: false
+read_more: disabled
+talkmap_link: false
+comments:
+  provider: false
+atom_feed:
+  hide: true
+analytics:
+  provider: false
+include: [_pages, files]
+exclude: [README.md, AGENTS.md, LICENSE, Gemfile, Gemfile.lock, vendor, .bundle, .github, templates, node_modules, assets/js/_main.js, assets/js/plugins, assets/js/vendor]
+encoding: utf-8
+markdown: kramdown
+highlighter: rouge
+excerpt_separator: "\n\n"
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  toc_levels: 1..6
+collections:
+  portfolio:
+    output: true
+    permalink: /projects/:path/
+defaults:
+  - scope:
+      path: ''
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ''
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: false
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /:categories/:title/
+timezone: Europe/Stockholm
+plugins: [jekyll-sitemap, jekyll-redirect-from]
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
