@@ -40,7 +40,7 @@ I earned my M.Sc. in Social Scientific Data Analysis at Lund University in 2025,
 - **Tools:** Microsoft Excel (intermediate), Microsoft PowerPoint (intermediate), Microsoft Word (intermediate)
 - **Language:** English (fluent), German (native), Portuguese (native), Mandarin (pre-intermediate, HSK3)
 - **R Programming:** Data wrangling & visualization (tidyverse, ggplot2, dplyr), Regression (linear, logistic, mixed), ML (kNN, Naive Bayes, LDA, text/sentiment analysis), Web scraping (rvest, HTML, CSS, XPATH), GIS (sf, terra), Reporting (R Markdown, Quarto)
-- **Certifications:** Data Scientist Associate Certificate (DataCamp) in R; SQL Associate Certificate (DataCamp)
+- **Certifications:** Data Scientist Associate Certificate ([DataCamp](https://www.datacamp.com/certificate/DSA0014363776447)) in R; SQL Associate Certificate ([DataCamp](https://www.datacamp.com/certificate/SQA0013090643605))
 
 ## Education
 

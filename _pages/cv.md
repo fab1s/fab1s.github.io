@@ -61,8 +61,8 @@ Training in sociology and economics, with a foundation in social theory and comp
 
 **Certifications:**
 
-- Data Scientist Associate Certificate (DataCamp) in R
-- SQL Associate Certificate (DataCamp)
+- Data Scientist Associate Certificate ([DataCamp](https://www.datacamp.com/certificate/DSA0014363776447)) in R
+- SQL Associate Certificate ([DataCamp](https://www.datacamp.com/certificate/SQA0013090643605))
 
 ## Contact
 
