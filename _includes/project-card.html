@@ -3,5 +3,4 @@
   {% if project.period %}<p class="project-label">{{ project.area }} · {{ project.period }}</p>{% endif %}
   <p>{{ project.excerpt | strip_html }}</p>
   {% if project.map_preview %}{% include map-preview.html %}{% endif %}
-  <a class="project-card__link" href="{{ project.url | relative_url }}">Read project →</a>
 </article>
