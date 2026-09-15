@@ -23,6 +23,6 @@ I used R to wrangle, analyse, and visualise clinical trial data, producing a res
 
 ## Research outputs
 
-The data work supported a published paper and a submitted manuscript pending review.
+The data work supported a [published paper](https://www.tandfonline.com/doi/full/10.1080/09581596.2026.2670065) and a manuscript currently under review.
 
 [← All projects](/projects/)

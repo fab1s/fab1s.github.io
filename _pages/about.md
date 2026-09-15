@@ -32,7 +32,7 @@ I earned my M.Sc. in Social Scientific Data Analysis at Lund University in 2025,
 *April–December 2024 · Sweden*
 
 - Used R to wrangle, analyse, and visualise ClinicalTrials.gov data.
-- Prepared a dataset supporting a published paper and a submitted manuscript pending review.
+- Prepared a dataset supporting a [published paper](https://www.tandfonline.com/doi/full/10.1080/09581596.2026.2670065) and a manuscript currently under review.
 
 ## Skills
 
