@@ -4,7 +4,7 @@ permalink: /
 layout: single
 ---
 
-I am a Research Engineer at the [Methods Centre, Lund University](https://www.lunduniversity.lu.se/), working at the intersection of social science, **quantitative methods**, and **geospatial analysis**. My current work focuses on infrastructure investment in Brazil and a research data platform for the Faculty of Social Sciences.
+I am a Research Engineer at the Methods Centre, Lund University, working at the intersection of social science, **quantitative methods**, and **geospatial analysis**. My current work focuses on infrastructure investment in Brazil and a research data platform for the Faculty of Social Sciences.
 
 I earned my M.Sc. in Social Scientific Data Analysis at Lund University in 2025, following a B.A. in Sociology with a minor in Economics at LMU Munich. My [master's thesis, *Social Infrastructure and Structural (Dis)advantage*](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9209189&fileOId=9209190), developed with RISE, assessed equity in access to social infrastructure in Skåne County using GIS, road network accessibility, and geographically weighted regression.
 
