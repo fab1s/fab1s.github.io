@@ -37,3 +37,13 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* Fabio's compact Academic Pages presentation */
+.page__title { font-size:1.125em; line-height:1.35; }
+.page__content h2 { font-size:1.0625em; line-height:1.35; }
+.page__content h3 { font-size:1em; line-height:1.4; }
+.map-preview { width:50%; margin:1em 0 1.5em; }
+.map-preview a { display:block; }
+.map-preview img { display:block; width:100%; height:auto; border:1px solid #e7e7e7; border-radius:3px; box-sizing:border-box; margin-bottom:0.4em; }
+.map-preview figcaption { color:#717171; font-size:0.8125em; margin-top:0.25em; }
+@media (max-width: 800px) { .map-preview { width:100%; } }

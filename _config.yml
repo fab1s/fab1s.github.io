@@ -10,8 +10,9 @@ repository: fab1s/fab1s.github.io
 author:
   avatar: Fabio_Schreiber.jpg
   work_email: fabio.schreiber@keg.lu.se
-  scholar: https://scholar.google.com/citations?user=e9tejNQAAAAJ
-  linkedin: https://www.linkedin.com/in/fabio-schreiber-1b79972a7/
+  googlescholar: https://scholar.google.com/citations?user=e9tejNQAAAAJ
+  linkedin: fabio-schreiber-1b79972a7
+  cv: /files/fabio-schreiber-cv.pdf
   name: Fabio Schreiber
   bio: Research Engineer · Social science and geospatial analysis
   employer: Lund University
