@@ -2,6 +2,8 @@
 title: "Project title"
 excerpt: "A short summary of the question and your contribution."
 collection: portfolio
+area: "Research area"
+period: "Year or date range"
 order: 6
 ---
 

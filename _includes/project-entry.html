@@ -1,0 +1,6 @@
+<article class="project-entry">
+{% if project.area %}<p class="project-label">{{ project.area }} · {{ project.period }}</p>{% endif %}
+<h2><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h2>
+<p>{{ project.excerpt | strip_html }}</p>
+<a class="read-project" href="{{ project.url | relative_url }}">Project overview →</a>
+</article>

@@ -1,32 +1,54 @@
 ---
-title: "About me"
+title: About me
 permalink: /
 layout: single
-author_profile: true
 ---
 
-I am a Research Engineer at the Methods Centre at Lund University, working at the intersection of social science, quantitative methods, and geospatial analysis.
+I am a Research Engineer at the **Methods Centre at Lund University**. I work at the intersection of social science, quantitative methods, and geospatial analysis, with a focus on infrastructure, accessibility, and inequality.
 
-My work explores infrastructure, accessibility, and inequality. I also build tools that make research data easier to discover and use.
-
-At Lund, I lead the development of a research data platform for the Faculty of Social Sciences and a quantitative project analysing infrastructure investment patterns across Brazil at national scale.
+My current work combines national-scale research on **infrastructure investment in Brazil** with the development of a **research data platform** for Lund's Faculty of Social Sciences.
 
 ## Research interests
 
-- Social infrastructure and spatial inequality
-- Geospatial analysis and accessibility
-- Computational social science
-- Research data platforms
+Social infrastructure and spatial inequality · Geospatial accessibility · Computational social science · Research data platforms
 
-## Background
+## Selected projects
 
-I hold an M.Sc. in Social Scientific Data Analysis from Lund University and a B.A. in Sociology, with a minor in Economics, from LMU Munich. My master's thesis, developed in collaboration with RISE, assessed equity in access to social infrastructure in Skåne County using GIS.
+{% assign projects = site.portfolio | sort: 'order' %}
+{% for project in projects limit:3 %}{% include project-entry.html %}{% endfor %}
 
-My experience includes spatial data analysis at RISE and research data work with ClinicalTrials.gov at Lund University's Sociology Department.
+[All five projects →](/projects/)
 
-[Explore my projects](/projects/) · [View my CV](/cv/)
+## Experience
 
-## Contact
+<div class="entry">
+<h3>Research Engineer</h3>
+<p class="entry-meta">Lund University · Methods Centre · May 2026–present</p>
+<p>Leading a research data platform and quantitative research on infrastructure investment patterns across Brazil.</p>
+</div>
+<div class="entry">
+<h3>Master Thesis Student & Research Intern</h3>
+<p class="entry-meta">RISE · Thesis: February–May 2025 · Internship: August–October 2024</p>
+<p>GIS-based assessment of social infrastructure accessibility in Skåne County, and spatial data analysis for the City-Core Index.</p>
+</div>
+<div class="entry">
+<h3>Project Assistant</h3>
+<p class="entry-meta">Lund University · Sociology Department · April–December 2024</p>
+<p>Prepared and analysed ClinicalTrials.gov data for academic research.</p>
+</div>
 
-You can reach me at [fabio1s.schreiber@gmail.com](mailto:fabio1s.schreiber@gmail.com).
+## Education
 
+**M.Sc. Social Scientific Data Analysis**  
+Lund University · 2023–2025
+
+**B.A. Sociology, minor in Economics**  
+LMU Munich · 2019–2023
+
+## Methods & tools
+
+**Data analysis:** R, tidyverse, regression, text analysis  
+**Geospatial:** sf, terra, GIS, accessibility analysis  
+**Development & reporting:** SQL, Python, agentic engineering, Quarto, R Markdown
+
+[Full CV](/cv/) · [Theses and research contributions](/research/)

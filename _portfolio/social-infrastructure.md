@@ -2,6 +2,8 @@
 title: "Social infrastructure and structural (dis)advantage"
 excerpt: "A GIS-based equity assessment of access to social infrastructure in Skåne County."
 collection: portfolio
+area: "Spatial equity"
+period: "2025"
 order: 3
 ---
 

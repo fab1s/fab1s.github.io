@@ -1,8 +1,8 @@
-# Fabio Schreiber — Academic Pages
+# Fabio Schreiber — Research portfolio
 
 Personal academic website: https://fab1s.github.io
 
-Built from the standard [Academic Pages](https://github.com/academicpages/academicpages.github.io) template, with its default theme, sidebar, and layouts. The original MIT license is retained.
+Design adapted from [Minimal Light](https://github.com/yaoyao-liu/minimal-light), with a compact profile sidebar and a homepage centred on research projects and experience. Existing Jekyll content and publishing are retained. Original template licenses are included.
 
 ## Add a project
 
@@ -12,6 +12,8 @@ Built from the standard [Academic Pages](https://github.com/academicpages/academ
 4. Commit to `main`; GitHub Pages builds and publishes the update automatically.
 
 You can edit directly on GitHub: open `_portfolio`, select **Add file → Create new file**, and paste the template. A committed project is public; prepare unfinished text locally or in a pull request.
+
+The homepage automatically highlights the first three projects. Add `area` and `period` metadata to show the project topic and dates.
 
 ## Update your details
 

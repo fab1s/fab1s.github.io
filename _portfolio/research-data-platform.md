@@ -2,6 +2,8 @@
 title: "A platform for research data"
 excerpt: "Enabling discovery and exploration of large datasets for the Faculty of Social Sciences."
 collection: portfolio
+area: "Research data platforms"
+period: "2026–present"
 order: 2
 ---
 

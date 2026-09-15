@@ -2,6 +2,8 @@
 title: "Clinical trial data for social research"
 excerpt: "Preparing and analysing ClinicalTrials.gov data for academic research at Lund University."
 collection: portfolio
+area: "Computational social science"
+period: "2024"
 order: 5
 ---
 

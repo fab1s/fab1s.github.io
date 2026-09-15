@@ -26,7 +26,7 @@ atom_feed:
 analytics:
   provider: false
 include: [_pages, files]
-exclude: [README.md, AGENTS.md, LICENSE, Gemfile, Gemfile.lock, vendor, .bundle, .github, templates, node_modules, assets/js/_main.js, assets/js/plugins, assets/js/vendor]
+exclude: [MINIMAL-LIGHT-LICENSE, README.md, AGENTS.md, LICENSE, Gemfile, Gemfile.lock, vendor, .bundle, .github, templates, node_modules, assets/js/_main.js, assets/js/plugins, assets/js/vendor]
 encoding: utf-8
 markdown: kramdown
 highlighter: rouge

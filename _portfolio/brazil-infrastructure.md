@@ -2,6 +2,8 @@
 title: "Infrastructure investment in Brazil"
 excerpt: "National-scale geospatial research on infrastructure investment patterns, with supporting analysis of census geography in Belo Horizonte."
 collection: portfolio
+area: "Infrastructure & GIS"
+period: "2026–present"
 order: 1
 ---
 
