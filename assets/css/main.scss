@@ -50,7 +50,7 @@
 
 .project-group { margin:2em 0 2.5em; }
 .project-group > h2 { margin-top:0; }
-.project-grid { display:grid; grid-template-columns:repeat(2, minmax(0, 1fr)); gap:1em; }
+.project-grid { display:grid; grid-template-columns:repeat(2, minmax(0, 1fr)); gap:1em; align-items:start; }
 .project-card { display:flex; flex-direction:column; min-width:0; padding:1.1em; border:1px solid var(--global-border-color); border-radius:4px; background:#f7f7f7; }
 .project-card h3 { margin:0 0 0.4em; }
 .project-card p { margin:0 0 0.8em; }
