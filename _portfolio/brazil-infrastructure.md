@@ -5,6 +5,7 @@ collection: portfolio
 area: "Infrastructure & GIS"
 period: "2026–present"
 order: 1
+map_preview: true
 ---
 
 
@@ -16,6 +17,10 @@ order: 1
 ## Research focus
 
 This project analyses infrastructure investment patterns across Brazil at national scale, applying **computational and ecological methods** to large geospatial datasets.
+
+## Interactive map
+
+{% include map-preview.html %}
 
 ## My contribution
 

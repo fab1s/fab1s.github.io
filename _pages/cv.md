@@ -16,6 +16,8 @@ author_profile: true
 
 Leading development of a research data platform for the Faculty of Social Sciences, enabling discovery and exploration of large datasets through agentic engineering. Leading a quantitative research project analysing infrastructure investment patterns across Brazil at national scale, applying computational and ecological methods to large geospatial datasets.
 
+{% include map-preview.html %}
+
 ### Master Thesis Student · RISE
 <p class="role-date">Research Institutes of Sweden · February–May 2025</p>
 

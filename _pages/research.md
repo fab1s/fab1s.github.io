@@ -13,6 +13,8 @@ At Lund University's Methods Centre, my work combines national-scale research on
 
 [Infrastructure research](/projects/brazil-infrastructure/) · [Research data platform](/projects/research-data-platform/)
 
+{% include map-preview.html %}
+
 ## Theses
 
 ### Social Infrastructure and Structural (Dis)advantage: A GIS-Based Equity Assessment
