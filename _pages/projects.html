@@ -3,9 +3,9 @@ title: Projects
 permalink: /projects/
 layout: archive
 ---
-<p>Selected work in geospatial analysis, research infrastructure, and computational social science.</p>
+<p>Selected work in geospatial analysis, research infrastructure, and social research.</p>
 {% assign projects = site.portfolio | sort: 'order' %}
-{% assign groups = "Current work|Spatial equity|Urban research|Computational social science" | split: "|" %}
+{% assign groups = "Current work|Spatial equity|Urban research|Health equity research" | split: "|" %}
 {% for group in groups %}
   {% assign group_projects = projects | where: "group", group %}
   {% if group_projects.size > 0 %}
