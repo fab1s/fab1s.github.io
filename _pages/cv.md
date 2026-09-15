@@ -49,21 +49,20 @@ Training in sociology and economics, with a foundation in social theory and comp
 
 **Thesis:** *Assessing Public Perception of Sustainable Travel: A Reddit Analysis*
 
-## Methods & tools
+## Skills
 
-- **Programming:** R (advanced), SQL (intermediate), Python (beginner); agentic engineering via VS Code.
-- **Data analysis:** tidyverse, ggplot2, dplyr; linear, logistic, and mixed regression; kNN, Naive Bayes, LDA, and text/sentiment analysis.
-- **Geospatial & data collection:** sf, terra, GIS, web scraping with rvest, HTML, CSS, and XPath.
-- **Reporting:** R Markdown, Quarto; Microsoft Excel, PowerPoint, and Word (intermediate).
+**Programming:** R (advanced), SQL (intermediate), Python (beginner), Agentic engineering (via VS Code)
 
-## Languages
+**Tools:** Microsoft Excel (intermediate), Microsoft PowerPoint (intermediate), Microsoft Word (intermediate)
 
-German and Portuguese (native) · English (fluent) · Mandarin (pre-intermediate, HSK3)
+**Language:** English (fluent), German (native), Portuguese (native), Mandarin (pre-intermediate, HSK3)
 
-## Certifications
+**R Programming:** Data wrangling & visualization (tidyverse, ggplot2, dplyr), Regression (linear, logistic, mixed), ML (kNN, Naive Bayes, LDA, text/sentiment analysis), Web scraping (rvest, HTML, CSS, XPATH), GIS (sf, terra), Reporting (R Markdown, Quarto)
 
-- DataCamp Data Scientist Associate Certificate in R
-- DataCamp SQL Associate Certificate
+**Certifications:**
+
+- Data Scientist Associate Certificate (DataCamp) in R
+- SQL Associate Certificate (DataCamp)
 
 ## Contact
 

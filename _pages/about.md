@@ -36,10 +36,11 @@ I earned my M.Sc. in Social Scientific Data Analysis at Lund University in 2025,
 
 ## Skills
 
-- **Programming:** R (advanced), SQL (intermediate), Python (beginner)
-- **Analysis:** Data wrangling, visualisation, regression, text and sentiment analysis
-- **Geospatial:** sf, terra, GIS, accessibility analysis
-- **Development and reporting:** Agentic engineering, Quarto, R Markdown
+- **Programming:** R (advanced), SQL (intermediate), Python (beginner), Agentic engineering (via VS Code)
+- **Tools:** Microsoft Excel (intermediate), Microsoft PowerPoint (intermediate), Microsoft Word (intermediate)
+- **Language:** English (fluent), German (native), Portuguese (native), Mandarin (pre-intermediate, HSK3)
+- **R Programming:** Data wrangling & visualization (tidyverse, ggplot2, dplyr), Regression (linear, logistic, mixed), ML (kNN, Naive Bayes, LDA, text/sentiment analysis), Web scraping (rvest, HTML, CSS, XPATH), GIS (sf, terra), Reporting (R Markdown, Quarto)
+- **Certifications:** Data Scientist Associate Certificate (DataCamp) in R; SQL Associate Certificate (DataCamp)
 
 ## Education
 
