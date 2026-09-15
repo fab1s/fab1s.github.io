@@ -19,11 +19,11 @@ How equitable is access to social infrastructure in Sk√•ne County? This master‚Ä
 
 ## My contribution
 
-I applied GIS to assess **equity in access to social infrastructure** in collaboration with the Research Institutes of Sweden (RISE).
+I applied GIS to assess equity in access to social infrastructure in collaboration with the Research Institutes of Sweden (RISE).
 
 ## Methods
 
-The analysis uses **road network-based accessibility metrics** and **geographically weighted regression (GWR)**. Network-based metrics consider access along roads, while GWR allows relationships to vary geographically.
+The analysis uses road network-based accessibility metrics and **geographically weighted regression (GWR)**. Network-based metrics consider access along roads, while GWR allows relationships to vary geographically.
 
 ## Research output
 
