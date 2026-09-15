@@ -1,6 +1,6 @@
 ---
 title: "Infrastructure investment in Brazil"
-excerpt: "National-scale geospatial research on infrastructure investment patterns, with supporting analysis of census geography in Belo Horizonte."
+excerpt: "National-scale geospatial research on infrastructure investment patterns and census geography across Brazil."
 collection: portfolio
 area: "Infrastructure & GIS"
 period: "2026–present"
@@ -24,7 +24,7 @@ This project analyses infrastructure investment patterns across Brazil at nation
 
 ## My contribution
 
-I lead the quantitative research project. The supporting data work includes comparing census tract boundaries across 2000, 2010, and 2022 in Belo Horizonte.
+I lead the quantitative research project. The supporting data work includes comparing census tract boundaries across 2000, 2010, and 2022 at national scale.
 
 ## Methods and data
 
