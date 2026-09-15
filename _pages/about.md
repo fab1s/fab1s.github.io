@@ -1,42 +1,45 @@
 ---
-title: About me
+title: About Me
 permalink: /
 layout: single
 ---
 
-I am a Research Engineer at the **Methods Centre at Lund University**. I work at the intersection of social science, quantitative methods, and geospatial analysis, with a focus on infrastructure, accessibility, and inequality.
+I am a Research Engineer at the [Methods Centre, Lund University](https://www.lunduniversity.lu.se/), working at the intersection of social science, quantitative methods, and geospatial analysis. My current work focuses on infrastructure investment in Brazil and a research data platform for the Faculty of Social Sciences.
 
-My current work combines national-scale research on **infrastructure investment in Brazil** with the development of a **research data platform** for Lund's Faculty of Social Sciences.
-
-## Research interests
-
-Social infrastructure and spatial inequality · Geospatial accessibility · Computational social science · Research data platforms
+I earned my M.Sc. in Social Scientific Data Analysis at Lund University in 2025, following a B.A. in Sociology with a minor in Economics at LMU Munich. My master's thesis, developed with RISE, assessed equity in access to social infrastructure in Skåne County using GIS, road network accessibility, and geographically weighted regression.
 
 ## Experience
 
-<div class="entry">
-<h3>Research Engineer</h3>
-<p class="entry-meta">Lund University · Methods Centre · May 2026–present</p>
-<p>Leading a research data platform and quantitative research on infrastructure investment patterns across Brazil.</p>
-</div>
-<div class="entry">
-<h3>Master Thesis Student & Research Intern</h3>
-<p class="entry-meta">RISE · Thesis: February–May 2025 · Internship: August–October 2024</p>
-<p>GIS-based assessment of social infrastructure accessibility in Skåne County, and spatial data analysis for the City-Core Index.</p>
-</div>
-<div class="entry">
-<h3>Project Assistant</h3>
-<p class="entry-meta">Lund University · Sociology Department · April–December 2024</p>
-<p>Prepared and analysed ClinicalTrials.gov data for academic research.</p>
-</div>
+**Research Engineer** · Methods Centre, [Lund University](https://www.lunduniversity.lu.se/)  
+*May 2026–present · Sweden*
 
-## Methods & tools
+- Leading development of a research data platform for the Faculty of Social Sciences, enabling discovery and exploration of large datasets.
+- Leading quantitative research on infrastructure investment patterns across Brazil using computational and ecological methods with geospatial data.
 
-**Data analysis:** R, tidyverse, regression, text analysis  
-**Geospatial:** sf, terra, GIS, accessibility analysis  
-**Development & reporting:** SQL, Python, agentic engineering, Quarto, R Markdown
+**Master Thesis Student** · Research Institutes of Sweden (RISE)  
+*February–May 2025 · Sweden*
 
-[Full CV](/cv/) · [Theses and research contributions](/research/)
+- Applied GIS to assess equity in access to social infrastructure in Skåne County.
+- Used road network-based accessibility metrics and geographically weighted regression.
+
+**Research Intern** · Research Institutes of Sweden (RISE)  
+*August–October 2024 · Sweden*
+
+- Analysed and visualised spatial data for the City-Core Index using GIS in R.
+- Processed datasets and integrated APIs to support urban research.
+
+**Project Assistant** · Sociology Department, Lund University  
+*April–December 2024 · Sweden*
+
+- Used R to wrangle, analyse, and visualise ClinicalTrials.gov data.
+- Prepared a dataset supporting a published paper and a submitted manuscript pending review.
+
+## Skills
+
+- **Programming:** R (advanced), SQL (intermediate), Python (beginner)
+- **Analysis:** Data wrangling, visualisation, regression, text and sentiment analysis
+- **Geospatial:** sf, terra, GIS, accessibility analysis
+- **Development and reporting:** Agentic engineering, Quarto, R Markdown
 
 ## Education
 

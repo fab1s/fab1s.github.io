@@ -22,7 +22,8 @@
 <a href="https://github.com/fab1s" aria-label="GitHub" title="GitHub"><i class="fab fa-github" aria-hidden="true"></i></a>
 <a href="{{ site.author.linkedin }}" aria-label="LinkedIn" title="LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
 </nav>
-<nav class="side-nav" aria-label="Main navigation">{% for item in site.data.navigation.main %}<a href="{{ item.url | relative_url }}" {% if page.url == item.url %}aria-current="page"{% endif %}>{{ item.title }}</a>{% endfor %}</nav>
+
 </header><main id="content"><h1>{{ page.title }}</h1>{{ content }}
+<nav class="footer-nav" aria-label="Main navigation">{% for item in site.data.navigation.main %}<a href="{{ item.url | relative_url }}" {% if page.url == item.url %}aria-current="page"{% endif %}>{{ item.title }}</a>{% endfor %}</nav>
 <div class="site-credit">© {{ site.time | date: '%Y' }} Fabio Schreiber · Built with Jekyll and adapted from <a href="https://github.com/yaoyao-liu/minimal-light">Minimal Light</a>.</div>
 </main></div></body></html>
