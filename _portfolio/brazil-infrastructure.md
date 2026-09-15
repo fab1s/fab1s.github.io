@@ -3,6 +3,7 @@ title: "Infrastructure investment in Brazil"
 excerpt: "National-scale geospatial research on infrastructure investment patterns and census geography across Brazil."
 collection: portfolio
 area: "Infrastructure & GIS"
+group: "Current work"
 period: "2026–present"
 order: 1
 map_preview: true

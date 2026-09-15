@@ -3,6 +3,7 @@ title: "Spatial data for the City-Core Index"
 excerpt: "GIS analysis, data processing, and API integration to support urban research at RISE."
 collection: portfolio
 area: "Urban research"
+group: "Urban research"
 period: "2024"
 order: 4
 ---

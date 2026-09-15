@@ -5,4 +5,15 @@ layout: archive
 ---
 <p>Selected work in geospatial analysis, research infrastructure, and computational social science.</p>
 {% assign projects = site.portfolio | sort: 'order' %}
-{% for project in projects %}{% include project-entry.html %}{% endfor %}
+{% assign groups = "Current work|Spatial equity|Urban research|Computational social science" | split: "|" %}
+{% for group in groups %}
+  {% assign group_projects = projects | where: "group", group %}
+  {% if group_projects.size > 0 %}
+  <section class="project-group">
+    <h2>{{ group }}</h2>
+    <div class="project-grid">
+      {% for project in group_projects %}{% include project-card.html %}{% endfor %}
+    </div>
+  </section>
+  {% endif %}
+{% endfor %}
