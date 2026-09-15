@@ -15,11 +15,11 @@ order: 5
 
 ## Project focus
 
-This work used data from ClinicalTrials.gov to support academic research in Lund University’s Sociology Department.
+This work used data from **ClinicalTrials.gov** to support academic research in Lund University’s Sociology Department.
 
 ## My contribution
 
-I used R to wrangle, analyse, and visualise clinical trial data, producing a research dataset.
+I used R to wrangle, analyse, and visualise clinical trial data, producing **a research dataset**.
 
 ## Research outputs
 

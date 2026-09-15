@@ -4,34 +4,34 @@ permalink: /
 layout: single
 ---
 
-I am a Research Engineer at the [Methods Centre, Lund University](https://www.lunduniversity.lu.se/), working at the intersection of social science, quantitative methods, and geospatial analysis. My current work focuses on infrastructure investment in Brazil and a research data platform for the Faculty of Social Sciences.
+I am a **Research Engineer** at the [Methods Centre, Lund University](https://www.lunduniversity.lu.se/), working at the intersection of **social science, quantitative methods, and geospatial analysis**. My current work focuses on **infrastructure investment in Brazil** and a **research data platform** for the Faculty of Social Sciences.
 
-I earned my M.Sc. in Social Scientific Data Analysis at Lund University in 2025, following a B.A. in Sociology with a minor in Economics at LMU Munich. My master's thesis, developed with RISE, assessed equity in access to social infrastructure in Skåne County using GIS, road network accessibility, and geographically weighted regression.
+I earned my **M.Sc. in Social Scientific Data Analysis** at Lund University in 2025, following a B.A. in Sociology with a minor in Economics at LMU Munich. My master's thesis, developed with RISE, assessed equity in access to social infrastructure in Skåne County using GIS, road network accessibility, and geographically weighted regression.
 
 ## Experience
 
 **Research Engineer** · Methods Centre, [Lund University](https://www.lunduniversity.lu.se/)  
 *May 2026–present · Sweden*
 
-- Leading development of a research data platform for the Faculty of Social Sciences, enabling discovery and exploration of large datasets.
-- Leading quantitative research on infrastructure investment patterns across Brazil using computational and ecological methods with geospatial data.
+- Leading development of a **research data platform** for the Faculty of Social Sciences, enabling discovery and exploration of large datasets.
+- Leading quantitative research on **infrastructure investment patterns across Brazil** using computational and ecological methods with geospatial data.
 
 **Master Thesis Student** · Research Institutes of Sweden (RISE)  
 *February–May 2025 · Sweden*
 
-- Applied GIS to assess equity in access to social infrastructure in Skåne County.
-- Used road network-based accessibility metrics and geographically weighted regression.
+- Applied GIS to assess **equity in access to social infrastructure** in Skåne County.
+- Used **road network-based accessibility metrics** and **geographically weighted regression**.
 
 **Research Intern** · Research Institutes of Sweden (RISE)  
 *August–October 2024 · Sweden*
 
-- Analysed and visualised spatial data for the City-Core Index using GIS in R.
+- Analysed and visualised spatial data for the **City-Core Index** using GIS in R.
 - Processed datasets and integrated APIs to support urban research.
 
 **Project Assistant** · Sociology Department, Lund University  
 *April–December 2024 · Sweden*
 
-- Used R to wrangle, analyse, and visualise ClinicalTrials.gov data.
+- Used R to wrangle, analyse, and visualise **ClinicalTrials.gov data**.
 - Prepared a dataset supporting a published paper and a submitted manuscript pending review.
 
 ## Skills

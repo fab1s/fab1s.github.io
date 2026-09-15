@@ -15,11 +15,11 @@ order: 2
 
 ## Purpose
 
-The research data platform is being developed for the Faculty of Social Sciences at Lund University to enable researchers to discover and explore large datasets.
+The research data platform is being developed for the Faculty of Social Sciences at Lund University to enable researchers to **discover and explore large datasets**.
 
 ## My contribution
 
-I lead the platform’s development, using agentic engineering to build tools that support access to research data.
+**I lead the platform’s development**, using agentic engineering to build tools that support access to research data.
 
 ## Focus
 

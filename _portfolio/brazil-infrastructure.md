@@ -15,15 +15,15 @@ order: 1
 
 ## Research focus
 
-This project analyses infrastructure investment patterns across Brazil at national scale, applying computational and ecological methods to large geospatial datasets.
+This project analyses **infrastructure investment patterns across Brazil** at national scale, applying computational and ecological methods to large geospatial datasets.
 
 ## My contribution
 
-I lead the quantitative research project. The supporting data work includes comparing census tract boundaries across 2000, 2010, and 2022 in Belo Horizonte.
+I lead the quantitative research project. The supporting data work includes **comparing census tract boundaries across 2000, 2010, and 2022** in Belo Horizonte.
 
 ## Methods and data
 
-The census workflow measures overlap between tract boundaries and classifies older tracts as stable, reshaped, split, or unmatched. It also compares the share of the Black population in 2010 and 2022. The workflow uses R, sf, geobr, censobr, tidyverse, and mapview.
+The census workflow measures overlap between tract boundaries and classifies older tracts as **stable, reshaped, split, or unmatched**. It also compares the share of the Black population in 2010 and 2022. The workflow uses R, sf, geobr, censobr, tidyverse, and mapview.
 
 ## Why census geography matters
 
