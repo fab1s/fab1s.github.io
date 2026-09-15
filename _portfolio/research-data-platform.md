@@ -30,6 +30,6 @@ The platform supports the path from discovery to assessment: filtering a catalog
 
 ## What differentiates it
 
-RISSI links discovery, governed previews, and temporary in-browser analysis without mirroring research files by default. Providers remain the source of truth for originals, while each catalogue record retains its provenance and rights context.
+RISSI lets researchers visualise and produce descriptive statistics from eligible large datasets in the browser, without downloading each file first. This makes it possible to understand a dataset’s structure, variables, coverage, and analytical potential before investing time in a download or deeper analysis.
 
 [← All projects](/projects/)
