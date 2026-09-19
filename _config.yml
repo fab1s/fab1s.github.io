@@ -3,7 +3,7 @@ site_theme: default
 title: Fabio Schreiber
 title_separator: '-'
 name: Fabio Schreiber
-description: Research engineer working with social science, data analysis, and geospatial research.
+description: Research engineer working with sociology, data analysis, and geospatial research.
 url: https://fab1s.github.io
 baseurl: ''
 repository: fab1s/fab1s.github.io
@@ -14,7 +14,7 @@ author:
   linkedin: fabio-schreiber-1b79972a7
   cv: /files/fabio-schreiber-cv.pdf
   name: Fabio Schreiber
-  bio: Research Engineer · Social science and geospatial analysis
+  bio: Research Engineer · <strong>Sociology</strong> and geospatial analysis
   employer: Lund University
   location: Sweden
   email: fabio1s.schreiber@gmail.com
