@@ -10,7 +10,7 @@ I earned my M.Sc. in Social Scientific Data Analysis at Lund University in 2025,
 
 ## Experience
 
-**Research Engineer** · Methods Centre, [Lund University](https://www.lunduniversity.lu.se/)  
+**Research Engineer** · [Lund Social Science Methods Centre, Lund University](https://www.sam.lu.se/en/research/lund-social-science-methods-centre)<br>
 *May 2026–present · Sweden*
 
 - Leading development of a research data platform for the Faculty of Social Sciences, enabling discovery and exploration of large datasets.
@@ -28,7 +28,7 @@ I earned my M.Sc. in Social Scientific Data Analysis at Lund University in 2025,
 - Analysed and visualised spatial data for the City-Core Index using GIS in R.
 - Processed datasets and integrated APIs to support urban research.
 
-**Project Assistant** · Sociology Department, Lund University  
+**Project Assistant** · [Sociology Department, Lund University](https://www.soc.lu.se/en/start)<br>
 *April–December 2024 · Sweden*
 
 - Used R to wrangle, analyse, and visualise ClinicalTrials.gov data.
