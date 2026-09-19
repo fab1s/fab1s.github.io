@@ -20,7 +20,7 @@ The project began with a professor’s hunch about how race and ethnicity are re
 
 ## My contribution
 
-I worked with a large, relational ClinicalTrials.gov dataset in R, building a pipeline to extract, link, clean, and filter the relevant trial records. I produced descriptive statistics and a transparent sample-selection workflow, then outlined feasible analytical paths for the research questions.
+I worked with a large, relational ClinicalTrials.gov dataset in R, building a pipeline to extract, link, clean, and filter the relevant trial records. I produced descriptive statistics and a transparent sample-selection workflow.
 
 ## Research outputs
 
