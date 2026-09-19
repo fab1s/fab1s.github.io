@@ -22,7 +22,7 @@ I earned my M.Sc. in Social Scientific Data Analysis at Lund University in 2025,
 - Applied GIS to assess equity in access to social infrastructure in Skåne County.
 - Used road network-based accessibility metrics and geographically weighted regression.
 
-**Research Intern** · Research Institutes of Sweden (RISE)  
+**Research Intern** · [Research Institutes of Sweden (RISE)](https://www.ri.se/en/urban-development/architecture-and-planning/project/model-for-measuring-development-in-city-and)<br>
 *August–October 2024 · Sweden*
 
 - Analysed and visualised spatial data for the City-Core Index using GIS in R.
