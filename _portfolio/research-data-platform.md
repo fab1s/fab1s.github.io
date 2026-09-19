@@ -16,20 +16,16 @@ order: 2
 
 ## Purpose
 
-RISSI is an API-backed research-data discovery platform for the Faculty of Social Sciences at Lund University. It combines a dataset catalogue with people and organisation records, map-based discovery, and file-level previews so researchers can assess what data exists and whether it is useful for their work.
+RISSI is a research-data discovery and exploration platform. It is primarily intended for the Faculty of Social Sciences at Lund University, while remaining useful to anyone who wants to evaluate research data before working with it in depth.
 
-Metadata ingestion preserves provider links, provenance, and rights information, while the original provider remains the route for research-file downloads.
+The platform brings together metadata and prepared previews from third-party open-data sources, alongside documentation, provenance, and rights information.
 
 ## My contribution
 
-I lead product and technical development across catalogue search, dataset pages, map and Explorer workflows, and safe preview and analysis features. The platform combines a browser interface with a FastAPI service and PostgreSQL/PostGIS, supported by metadata-ingestion pipelines. I use **agentic engineering** to turn researcher needs into working prototypes.
+I develop the project end to end using **agentic engineering**. This includes making product and technical decisions, and building the data workflows, discovery interface, previews, visualisations, and analysis features.
 
-## Focus
+## What researchers can do
 
-The platform supports the path from discovery to assessment: filtering a catalogue, inspecting coverage and provenance, viewing file-level previews, and exploring eligible tabular data with Graphic Walker or geospatial data with GeoLibre.
-
-## What differentiates it
-
-RISSI lets researchers visualise and produce descriptive statistics from eligible large datasets in the browser, without downloading each file first. This makes it possible to understand a dataset’s structure, variables, coverage, and analytical potential before investing time in a download or deeper analysis.
+Researchers can search and filter the catalogue, inspect documentation and coverage, view maps and file previews, and explore eligible large datasets in the browser. They can create visualisations and descriptive statistics before deciding whether to download a dataset or invest time in deeper analysis. This supports FAIR data practices by making data easier to find, understand, and reuse.
 
 [← All projects](/projects/)
