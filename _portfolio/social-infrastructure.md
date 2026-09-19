@@ -24,7 +24,7 @@ I carried out the project from literature review and research design through dat
 
 ## Key insights
 
-Access was generally broader in urban areas, while rural and peripheral areas had fewer nearby services. Healthcare, cultural services, and child care showed especially pronounced gaps. The analysis also found that access and socio-demographic conditions vary across Skåne, with some communities facing both geographic distance and social disadvantage.
+Access was generally broader in urban areas, while rural and peripheral areas had fewer nearby services. Healthcare, cultural services, and child care showed especially pronounced gaps. These differences are sociological as well as spatial: access reflects how public investment, settlement patterns, and local social conditions shape people’s everyday opportunities. Some communities face a compounded disadvantage, where distance to services overlaps with lower income, unemployment, older populations, or a larger share of residents with foreign backgrounds.
 
 ## Thesis
 
