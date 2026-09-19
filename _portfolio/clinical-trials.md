@@ -16,11 +16,11 @@ order: 5
 
 ## Project focus
 
-This work used data from ClinicalTrials.gov to support academic research in Lund University’s Sociology Department.
+The project began with a professor’s hunch about how race and ethnicity are reported in clinical trials. I was asked to assess the relevant literature and whether data from ClinicalTrials.gov could support an investigation of the question.
 
 ## My contribution
 
-I used R to wrangle, analyse, and visualise clinical trial data, producing a research dataset.
+I worked with a large, relational ClinicalTrials.gov dataset in R, building a pipeline to extract, link, clean, and filter the relevant trial records. I produced descriptive statistics and a transparent sample-selection workflow, then outlined feasible analytical paths for the research questions.
 
 ## Research outputs
 
