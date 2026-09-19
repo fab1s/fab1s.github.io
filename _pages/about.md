@@ -60,7 +60,7 @@ LMU Munich · 2019–2023
   {% if group_projects.size > 0 %}
   <section class="project-group">
     <h2>{{ group }}</h2>
-    <div class="project-grid">
+    <div class="project-list">
       {% for project in group_projects %}{% include project-card.html %}{% endfor %}
     </div>
   </section>

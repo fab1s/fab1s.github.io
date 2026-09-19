@@ -50,10 +50,9 @@
 
 .project-group { margin:2em 0 2.5em; }
 .project-group > h2 { margin-top:0; }
-.project-grid { display:grid; grid-template-columns:repeat(2, minmax(0, 1fr)); gap:1em; align-items:start; }
-.project-card { display:flex; flex-direction:column; min-width:0; padding:1.1em; border:1px solid var(--global-border-color); border-radius:4px; background:#f7f7f7; }
-.project-card h3 { margin:0 0 0.4em; }
-.project-card p { margin:0 0 0.8em; }
-.project-card .project-label { color:var(--global-text-color-light); font-size:0.9em; font-style:italic; }
-.project-card .map-preview { width:100%; margin:0 0 1em; }
-@media (max-width: 600px) { .project-grid { grid-template-columns:1fr; } }
+.project-list { border-top:1px solid var(--global-border-color); }
+.project-entry { padding:1.1em 0 1.25em; border-bottom:1px solid var(--global-border-color); }
+.project-entry h3 { margin:0 0 0.25em; }
+.project-entry p { margin:0 0 0.65em; }
+.project-entry .project-label { color:var(--global-text-color-light); font-size:0.9em; font-style:italic; }
+.project-entry .map-preview { margin:0.9em 0 0; }
