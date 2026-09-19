@@ -16,7 +16,7 @@ order: 5
 
 ## Project focus
 
-The project began with a professor’s hunch about how race and ethnicity are reported in clinical trials. I was asked to assess the relevant literature and whether data from ClinicalTrials.gov could support an investigation of the question.
+The project began with a professor’s hunch about how race and ethnicity are reported in clinical trials. I was asked to assess whether data from ClinicalTrials.gov could support an investigation of the question.
 
 ## My contribution
 
