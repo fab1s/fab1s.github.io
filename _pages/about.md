@@ -16,7 +16,7 @@ I earned my M.Sc. in Social Scientific Data Analysis at Lund University in 2025,
 - Leading development of a research data platform for the Faculty of Social Sciences, enabling discovery and exploration of large datasets.
 - Leading quantitative research on infrastructure investment patterns across Brazil using computational and ecological methods with geospatial data.
 
-**Master Thesis Student** · Research Institutes of Sweden (RISE)  
+**Master Thesis Student** · [Research Institutes of Sweden (RISE)](https://www.ri.se/en/urban-development/architecture-and-planning/project/model-for-measuring-development-in-city-and)<br>
 *February–May 2025 · Sweden*
 
 - Applied GIS to assess equity in access to social infrastructure in Skåne County.
