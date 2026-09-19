@@ -14,20 +14,20 @@ order: 3
 **Period:** 2025  
 **Status:** Completed
 
-## Research question
+## Purpose
 
-How equitable is access to social infrastructure in Skåne County? This master’s thesis examines accessibility through a geospatial lens.
+This master’s thesis examined whether access to social infrastructure is distributed equitably across Skåne County. It compared access to 13 types of services across urban, built-up, and rural areas, alongside local socio-demographic patterns.
 
 ## My contribution
 
-I applied GIS to assess equity in access to social infrastructure in collaboration with the Research Institutes of Sweden (RISE).
+I carried out the project from literature review and research design through data preparation, analysis, interpretation, and writing. I developed the methodology in R, combining road-network accessibility measures with geographically weighted regression to examine how access and socio-demographic conditions vary across the county.
 
-## Methods
+## Key insights
 
-The analysis uses road network-based accessibility metrics and **geographically weighted regression (GWR)**. Network-based metrics consider access along roads, while GWR allows relationships to vary geographically.
+Access was generally broader in urban areas, while rural and peripheral areas had fewer nearby services. Healthcare, cultural services, and child care showed especially pronounced gaps. The analysis also found that access and socio-demographic conditions vary across Skåne, with some communities facing both geographic distance and social disadvantage.
 
-## Research output
+## Thesis
 
-[Read the thesis: *Social Infrastructure and Structural (Dis)advantage: A GIS-Based Equity Assessment*](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9209189&fileOId=9209190). It examines access to 13 types of social infrastructure across Skåne, including rural–urban and socio-demographic inequalities.
+[Read the full thesis: *Social Infrastructure and Structural (Dis)advantage: A GIS-Based Equity Assessment*](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9209189&fileOId=9209190).
 
 [← All projects](/projects/)
