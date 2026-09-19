@@ -24,6 +24,6 @@ I worked with a large, relational ClinicalTrials.gov dataset in R, building a pi
 
 ## Research outputs
 
-The data work supported a [published paper](https://www.tandfonline.com/doi/full/10.1080/09581596.2026.2670065) and a manuscript currently under review.
+The data work supported a [published article](/research/clinical-trial-race-and-ethnicity/) and a submitted manuscript, *How U.S. Race and Ethnicity Categories Travel: Clinical Trials, Global Infrastructures, and National Classification Cultures in Europe*.
 
 [← All projects](/projects/)

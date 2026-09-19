@@ -33,8 +33,8 @@ An analysis of public perceptions of sustainable travel using Reddit material.
 
 ## Research contributions
 
-### Clinical trial data
+### [Clinical trial data](/research/clinical-trial-race-and-ethnicity/)
 
-As a project assistant in Lund University's Sociology Department, I prepared and analysed data from ClinicalTrials.gov. This work supported a [published paper](https://www.tandfonline.com/doi/full/10.1080/09581596.2026.2670065) and a manuscript currently under review.
+As a project assistant in Lund University's Sociology Department, I prepared and analysed data from ClinicalTrials.gov. This work supported a published article and a submitted manuscript: *How U.S. Race and Ethnicity Categories Travel: Clinical Trials, Global Infrastructures, and National Classification Cultures in Europe*.
 
 [Read about the data work](/projects/clinical-trials/)
