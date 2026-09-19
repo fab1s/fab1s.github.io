@@ -7,7 +7,6 @@ author_profile: true
 
 - [About](/)
 - [Projects](/projects/)
-- [Research](/research/)
 - [CV](/cv/)
 
 ## Project pages
@@ -15,4 +14,3 @@ author_profile: true
 {% for project in projects %}
 - [{{ project.title }}]({{ project.url }})
 {% endfor %}
-
