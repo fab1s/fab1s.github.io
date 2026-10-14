@@ -6,6 +6,7 @@ area: "Health equity research"
 group: "Health equity research"
 period: "2024"
 order: 5
+research_output: "[Published article](https://www.tandfonline.com/doi/full/10.1080/09581596.2026.2670065#abstract) and submitted manuscript."
 ---
 
 

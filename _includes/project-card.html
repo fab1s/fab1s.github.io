@@ -27,6 +27,9 @@
     </p>
     <{{ heading }} class="project-card__title"><a href="{{ project.url | relative_url }}">{{ project.title | escape }}</a></{{ heading }}>
     <p class="project-card__summary">{{ project.excerpt | strip_html | escape }}</p>
+    {% if project.research_output %}
+      <div class="project-card__output"><strong>Output:</strong> {{ project.research_output | markdownify }}</div>
+    {% endif %}
     <div class="project-card__links">
       <a href="{{ project.url | relative_url }}" aria-label="View project: {{ project.title | escape }}">View project <span aria-hidden="true">→</span></a>
       {% if project.map_preview %}<a href="https://sandy-ivory-k65c.here.now/" target="_blank" rel="noopener noreferrer">Open map <span aria-hidden="true">↗</span></a>{% endif %}
