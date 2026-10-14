@@ -48,6 +48,9 @@
 .map-preview figcaption { color:#717171; font-size:0.8125em; margin-top:0.25em; }
 @media (max-width: 800px) { .map-preview { width:100%; } }
 
+.project-tools { margin-top:52px; }
+.project-tools > h2 { margin:0 0 10px; font-size:1.125em; }
+.project-tools > p { margin:0; }
 .project-grid {
   display:grid;
   grid-template-columns:repeat(3, minmax(0, 1fr));

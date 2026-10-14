@@ -1,7 +1,10 @@
 {% assign project = include.project %}
+{% assign heading = include.heading | default: 'h2' %}
 <article class="project-card">
   <div class="project-card__media">
-    {% if project.map_preview %}
+    {% if project.preview_image %}
+      <img src="{{ project.preview_image | relative_url }}" alt="{{ project.preview_alt | default: project.title | escape }}" loading="lazy">
+    {% elsif project.map_preview %}
       <img src="{{ '/images/brazil-map-preview.png' | relative_url }}" alt="Brazil infrastructure and census map preview" width="1280" height="720" loading="lazy">
     {% else %}
       <span class="project-card__icon" aria-hidden="true">
@@ -10,6 +13,7 @@
           {% when 'Spatial equity' %}<i class="fas fa-map-marker-alt"></i>
           {% when 'Urban research' %}<i class="fas fa-building"></i>
           {% when 'Health equity research' %}<i class="fas fa-heartbeat"></i>
+          {% when 'Small tools' %}<i class="fas fa-link"></i>
           {% else %}<i class="fas fa-folder-open"></i>
         {% endcase %}
       </span>
@@ -21,11 +25,12 @@
       <span>{{ project.area | escape }}</span>
       {% if project.period %}<span class="project-card__period">{{ project.period | escape }}</span>{% endif %}
     </p>
-    <h2 class="project-card__title"><a href="{{ project.url | relative_url }}">{{ project.title | escape }}</a></h2>
+    <{{ heading }} class="project-card__title"><a href="{{ project.url | relative_url }}">{{ project.title | escape }}</a></{{ heading }}>
     <p class="project-card__summary">{{ project.excerpt | strip_html | escape }}</p>
     <div class="project-card__links">
       <a href="{{ project.url | relative_url }}" aria-label="View project: {{ project.title | escape }}">View project <span aria-hidden="true">→</span></a>
       {% if project.map_preview %}<a href="https://sandy-ivory-k65c.here.now/" target="_blank" rel="noopener noreferrer">Open map <span aria-hidden="true">↗</span></a>{% endif %}
+      {% if project.github %}<a href="{{ project.github | escape }}" target="_blank" rel="noopener noreferrer">GitHub <span aria-hidden="true">↗</span></a>{% endif %}
     </div>
   </div>
 </article>

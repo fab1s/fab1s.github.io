@@ -5,8 +5,21 @@ layout: archive
 ---
 <p>Selected work in geospatial analysis, research infrastructure, and social research.</p>
 {% assign projects = site.portfolio | sort: 'order' %}
+{% assign research_projects = projects | where_exp: 'project', "project.group != 'Small tools'" %}
+{% assign tools = projects | where: 'group', 'Small tools' %}
 <div class="project-grid">
-{% for project in projects %}
+{% for project in research_projects %}
   {% include project-card.html project=project %}
 {% endfor %}
 </div>
+{% if tools.size > 0 %}
+<section class="project-tools" aria-labelledby="small-tools-title">
+  <h2 id="small-tools-title">Small tools</h2>
+  <p>Practical tools for research workflows.</p>
+  <div class="project-grid">
+  {% for project in tools %}
+    {% include project-card.html project=project heading='h3' %}
+  {% endfor %}
+  </div>
+</section>
+{% endif %}
