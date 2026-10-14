@@ -54,17 +54,10 @@ LMU Munich · 2019–2023
 
 {% assign projects = site.portfolio | sort: 'order' %}
 {% assign selected_projects = projects | slice: 0, 3 %}
-{% assign groups = "Current work|Spatial equity" | split: "|" %}
-{% for group in groups %}
-  {% assign group_projects = selected_projects | where: "group", group %}
-  {% if group_projects.size > 0 %}
-  <section class="project-group">
-    <h2>{{ group }}</h2>
-    <div class="project-list">
-      {% for project in group_projects %}{% include project-card.html %}{% endfor %}
-    </div>
-  </section>
-  {% endif %}
+<div class="project-grid">
+{% for project in selected_projects %}
+  {% include project-card.html project=project heading='h3' %}
 {% endfor %}
+</div>
 
-[All five projects →](/projects/)
+[All projects →](/projects/)
