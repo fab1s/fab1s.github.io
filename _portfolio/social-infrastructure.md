@@ -1,22 +1,22 @@
 ---
 title: "Social infrastructure and structural (dis)advantage"
-excerpt: "A GIS-based equity assessment of access to social infrastructure in Skåne County."
+excerpt: "My master’s thesis assessing equity in access to social infrastructure in Skåne County using GIS."
 collection: portfolio
-area: "Spatial equity"
+area: "Master’s thesis"
 group: "Spatial equity"
 period: "2025"
 order: 3
 ---
 
 
-**Role:** Master Thesis Student  
+**Role:** Master’s thesis student<br>
 **Organisation:** Lund University, in collaboration with RISE  
 **Period:** 2025  
 **Status:** Completed
 
 ## Purpose
 
-This master’s thesis examined whether access to social infrastructure is distributed equitably across Skåne County. It compared access to 13 types of services across urban, built-up, and rural areas, alongside local socio-demographic patterns.
+My master’s thesis examined whether access to social infrastructure is distributed equitably across Skåne County. It compared access to 13 types of services across urban, built-up, and rural areas, alongside local socio-demographic patterns.
 
 ## My contribution
 
