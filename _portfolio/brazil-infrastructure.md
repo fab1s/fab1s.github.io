@@ -23,6 +23,31 @@ This project analyses infrastructure investment patterns across Brazil at nation
 
 {% include map-preview.html %}
 
+## CS2Nordics 2026
+
+22 September 2026 · Aalborg University, Copenhagen · [Conference details](https://www.nosocss.org/conference.html)
+
+### Conference poster
+
+<div class="conference-poster">
+  <a class="conference-poster__preview" href="{{ '/files/brazil-infrastructure-cs2nordics-2026.pdf' | relative_url }}">
+    <img src="{{ '/images/brazil-infrastructure-cs2nordics-2026.webp' | relative_url }}" alt="" width="595" height="840" loading="lazy">
+    <span>View poster (PDF)</span>
+  </a>
+  <div class="conference-poster__details">
+    <p><strong>Infrastructure, Race, and Urban Change in Brazil – Who Benefits?</strong><br>
+    Constructing a National Database of Major Infrastructure Projects</p>
+    <p>Fabio Schreiber, Lorena Melgaço, Luana Xavier Pinto Coelho, and Philipp Stark<br>
+    Session 2P · Poster 26</p>
+  </div>
+</div>
+
+### Flash presentation
+
+*Infrastructure, Race, and Urban Change in Brazil: A Computational Framework for Constructing a National Database of Major Infrastructure Projects*
+
+Fabio Schreiber and Philipp Stark · Session 7A (Lightning talks), item 9 · [Official program](https://nosocss.org/program.html)
+
 ## My contribution
 
 I lead the quantitative research project. The supporting data work includes comparing census tract boundaries across 2000, 2010, and 2022 at national scale.
