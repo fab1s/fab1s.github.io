@@ -38,8 +38,7 @@ This project analyses infrastructure investment patterns across Brazil at nation
   <figcaption class="conference-poster__details">
     <p><span class="paper-figure__label">Figure 2.</span> <strong>Infrastructure, Race, and Urban Change in Brazil – Who Benefits?</strong><br>
     Constructing a National Database of Major Infrastructure Projects</p>
-    <p>Fabio Schreiber, Lorena Melgaço, Luana Xavier Pinto Coelho, and Philipp Stark<br>
-    Session 2P · Poster 26</p>
+    <p>Session 2P · Poster 26</p>
   </figcaption>
 </figure>
 
@@ -47,7 +46,7 @@ This project analyses infrastructure investment patterns across Brazil at nation
 
 *Infrastructure, Race, and Urban Change in Brazil: A Computational Framework for Constructing a National Database of Major Infrastructure Projects*
 
-Fabio Schreiber and Philipp Stark · Session 7A (Lightning talks), item 9 · [Official program](https://nosocss.org/program.html)
+Session 7A (Lightning talks), item 9 · [Official program](https://nosocss.org/program.html)
 
 ## My contribution
 
