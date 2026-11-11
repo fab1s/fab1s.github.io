@@ -1,6 +1,6 @@
 ---
 title: "Infrastructure investment in Brazil"
-excerpt: "National-scale geospatial research on infrastructure investment patterns and census geography across Brazil."
+excerpt: "Combining infrastructure records and harmonised census data to study investment across Brazil."
 collection: portfolio
 area: "Infrastructure & GIS"
 group: "Current work"
@@ -18,9 +18,11 @@ map_preview: true
 
 ## Research focus
 
-This project analyses infrastructure investment patterns across Brazil at national scale, applying **computational and ecological methods** to large geospatial datasets.
+We brought together public investment records, environmental licensing records, and census data to study infrastructure investment across Brazil. We harmonised census tract boundaries so we could compare areas across census years.
 
 ## Interactive map
+
+We built an interactive map so the research team could explore the large dataset, visualise patterns, and discuss what we found.
 
 {% include map-preview.html %}
 
@@ -47,17 +49,5 @@ This project analyses infrastructure investment patterns across Brazil at nation
 *Infrastructure, Race, and Urban Change in Brazil: A Computational Framework for Constructing a National Database of Major Infrastructure Projects*
 
 Session 7A (Lightning talks), item 9 · [Official program](https://nosocss.org/program.html)
-
-## My contribution
-
-I lead the quantitative research project. The supporting data work includes comparing census tract boundaries across 2000, 2010, and 2022 at national scale.
-
-## Methods and data
-
-The census workflow measures overlap between tract boundaries and classifies older tracts as stable, reshaped, split, or unmatched. It also compares the share of the Black population in 2010 and 2022. The workflow uses R, sf, geobr, censobr, tidyverse, and mapview.
-
-## Why census geography matters
-
-When census boundaries change, values from different years may refer to different areas. Comparing those boundaries is a necessary step towards understanding which geographic comparisons are meaningful.
 
 [← All projects](/projects/)
