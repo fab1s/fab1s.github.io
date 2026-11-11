@@ -2,12 +2,6 @@
 title: About Me
 permalink: /
 layout: single
-contents:
-  - Experience
-  - Skills
-  - Education
-  - Selected projects
-  - Conference presentations
 ---
 
 I am a Research Engineer at the Methods Centre, Lund University, working at the intersection of **sociology**, **quantitative methods**, and **geospatial analysis**. I develop a research data platform for the Faculty of Social Sciences, built by social scientists for social scientists. I am also in the early stages of exploring how GPS-based mobility data and sociological theory can help us understand where people from different social groups spend time and how much their routines overlap.
