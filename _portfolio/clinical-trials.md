@@ -8,6 +8,7 @@ period: "2024"
 order: 5
 preview_image: "/images/clinical-trials-selection.jpg"
 preview_alt: "Flowchart showing how ClinicalTrials.gov records were screened down to 429 trials"
+preview_portrait: true
 research_output: "[Published article](https://www.tandfonline.com/doi/full/10.1080/09581596.2026.2670065#abstract) and submitted manuscript."
 ---
 

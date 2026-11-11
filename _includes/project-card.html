@@ -19,7 +19,7 @@
     </div>
   </div>
   {% if project.preview_image %}
-    <div class="project-card__media">
+    <div class="project-card__media{% if project.preview_portrait %} project-card__media--portrait{% endif %}">
       <img src="{{ project.preview_image | relative_url }}" alt="{{ project.preview_alt | default: project.title | escape }}" loading="lazy">
     </div>
   {% elsif project.map_preview %}

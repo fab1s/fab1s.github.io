@@ -27,9 +27,4 @@ I analysed and visualised spatial data using **GIS in R**, processed datasets, a
 
 Geospatial data processing and visualisation in R, combined with **API-based data integration**.
 
-## Project reports
-
-- **2024** · City-centre definitions, indicators, and data sources for the national index. [RISE report (PDF)](https://cdn.prod.website-files.com/634cf50e05fc107124977b1e/672e271cff6f6f038957b134_RISE%20-%20Utveckling%20av%20nationellt%20stadska%CC%88rneindex.pdf)
-- **2023** · Prototype for measuring and monitoring sustainable development in Swedish town centres. [RISE report in DiVA](https://ri.diva-portal.org/smash/record.jsf?pid=diva2%3A1751696)
-
 [← All projects](/projects/)
