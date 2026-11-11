@@ -5,7 +5,7 @@ collection: portfolio
 area: "Infrastructure & GIS"
 group: "Current work"
 period: "2026–present"
-order: 1
+order: 2
 map_preview: true
 ---
 

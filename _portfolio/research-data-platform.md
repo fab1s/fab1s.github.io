@@ -5,7 +5,7 @@ collection: portfolio
 area: "Research data platforms"
 group: "Current work"
 period: "2026–present"
-order: 2
+order: 1
 preview_image: "/images/rissi-catalogue.png"
 preview_alt: "Dataset search results alongside filters for access, previews, documentation, and file type"
 ---
