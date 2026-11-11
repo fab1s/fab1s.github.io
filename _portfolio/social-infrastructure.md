@@ -6,6 +6,8 @@ area: "Master’s thesis"
 group: "Spatial equity"
 period: "2025"
 order: 3
+preview_image: "/images/social-infrastructure-workflow.png"
+preview_alt: "Thesis workflow combining service locations, road networks, and population grids to measure access to social infrastructure"
 ---
 
 
