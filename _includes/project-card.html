@@ -21,10 +21,11 @@
   {% if project.preview_image %}
     <div class="project-card__media">
       <img src="{{ project.preview_image | relative_url }}" alt="{{ project.preview_alt | default: project.title | escape }}" loading="lazy">
+      {% if project.preview_credit_url %}<small><a href="{{ project.preview_credit_url | relative_url }}">Map credit</a></small>{% endif %}
     </div>
   {% elsif project.map_preview %}
     <div class="project-card__media">
-      <img src="{{ '/images/brazil-map-preview.png' | relative_url }}" alt="Brazil infrastructure and census map preview" width="1280" height="720" loading="lazy">
+      <img src="{{ '/images/brazil-map-preview.webp' | relative_url }}" alt="Interactive map showing infrastructure projects in Rio de Janeiro" width="1600" height="911" loading="lazy">
     </div>
   {% endif %}
 </article>
