@@ -21,6 +21,14 @@ RISSI is a research-data discovery and exploration platform. It is primarily int
 
 The platform brings together metadata and prepared previews from third-party open-data sources, alongside documentation, provenance, and rights information.
 
+<figure class="paper-figure">
+  <a href="{{ '/images/rissi-catalogue.png' | relative_url }}">
+    <img src="{{ '/images/rissi-catalogue.png' | relative_url }}" alt="Dataset search results alongside filters for access, previews, documentation, and file type" width="3024" height="1728" loading="lazy">
+    <span>View full-size screenshot</span>
+  </a>
+  <figcaption><span class="paper-figure__label">Figure 1.</span> The RISSI catalogue showing dataset records from Researchdata.se.</figcaption>
+</figure>
+
 ## My contribution
 
 I develop the project end to end using **agentic engineering**. This includes making product and technical decisions, and building the data workflows, discovery interface, previews, visualisations, and analysis features.
