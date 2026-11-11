@@ -20,6 +20,22 @@ I earned my M.Sc. in Social Scientific Data Analysis at Lund University in 2025,
 
 [All projects →](/projects/)
 
+## Conference presentations
+
+### Infrastructure, Race, and Urban Change in Brazil – Who Benefits?
+
+<figure class="paper-figure conference-poster">
+  <a class="conference-poster__preview" href="{{ '/files/brazil-infrastructure-cs2nordics-2026.pdf' | relative_url }}">
+    <img src="{{ '/images/brazil-infrastructure-cs2nordics-2026.webp' | relative_url }}" alt="" width="595" height="840" loading="lazy">
+    <span>View poster (PDF)</span>
+  </a>
+  <figcaption class="conference-poster__details">
+    <p><strong>CS2Nordics 2026</strong><br>
+    22 September 2026 · Aalborg University, Copenhagen</p>
+    <p><a href="{{ '/projects/brazil-infrastructure/' | relative_url }}#flash-presentation">Flash presentation</a></p>
+  </figcaption>
+</figure>
+
 ## Experience
 
 **Research Engineer** · [Lund Social Science Methods Centre, Lund University](https://www.sam.lu.se/en/research/lund-social-science-methods-centre)<br>
