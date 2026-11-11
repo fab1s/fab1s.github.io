@@ -412,6 +412,12 @@ button:focus-visible {
   height: auto;
 }
 
+.paper-figure--compact img {
+  width: auto;
+  max-width: 100%;
+  max-height: 20rem;
+}
+
 .page__content .paper-figure a:hover img {
   box-shadow: none;
   border-color: var(--global-link-color);
