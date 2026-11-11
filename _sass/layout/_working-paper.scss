@@ -375,6 +375,26 @@ button:focus-visible {
   margin: 1rem 0 1.75rem;
 }
 
+.paper-figure-pair {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 1rem;
+  margin: 1rem 0 1.75rem;
+
+  @include breakpoint($medium) {
+    grid-template-columns: minmax(0, 3fr) minmax(0, 2fr);
+  }
+}
+
+.paper-figure-pair > .paper-figure {
+  margin: 0;
+}
+
+.paper-figure-pair .paper-figure img {
+  width: auto;
+  max-width: 100%;
+}
+
 .paper-figure img,
 .cv-pdf {
   display: block;
