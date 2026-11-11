@@ -375,6 +375,10 @@ button:focus-visible {
   margin: 1rem 0 1.75rem;
 }
 
+.paper-figure--compact {
+  width: 20rem;
+}
+
 .paper-figure-pair {
   display: grid;
   grid-template-columns: minmax(0, 1fr);

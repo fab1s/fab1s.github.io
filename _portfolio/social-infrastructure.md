@@ -33,4 +33,12 @@ Access was generally broader in urban areas, while rural and peripheral areas ha
 
 [Read the full thesis: *Social Infrastructure and Structural (Dis)advantage: A GIS-Based Equity Assessment*](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9209189&fileOId=9209190).
 
+<figure class="paper-figure paper-figure--compact">
+  <a href="{{ page.preview_image | relative_url }}">
+    <img src="{{ page.preview_image | relative_url }}" alt="{{ page.preview_alt | escape }}" width="1658" height="1070" loading="lazy">
+    <span>Open full-size diagram</span>
+  </a>
+  <figcaption>Workflow for calculating population-weighted accessibility to social infrastructure.</figcaption>
+</figure>
+
 [← All projects](/projects/)
