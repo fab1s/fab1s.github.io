@@ -13,6 +13,7 @@ order: 2
 **Organisation:** Lund University, Methods Centre  
 **Period:** 2026–present  
 **Status:** Ongoing
+{: .project-metadata }
 
 ## Purpose
 

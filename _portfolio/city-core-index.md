@@ -13,6 +13,7 @@ order: 4
 **Organisation:** Research Institutes of Sweden (RISE)  
 **Period:** August–October 2024  
 **Status:** Completed
+{: .project-metadata }
 
 ## Project focus
 

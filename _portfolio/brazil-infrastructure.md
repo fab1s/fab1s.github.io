@@ -14,6 +14,7 @@ map_preview: true
 **Organisation:** Lund University, Methods Centre  
 **Period:** 2026–present  
 **Status:** Ongoing
+{: .project-metadata }
 
 ## Research focus
 
@@ -29,18 +30,18 @@ This project analyses infrastructure investment patterns across Brazil at nation
 
 ### Conference poster
 
-<div class="conference-poster">
+<figure class="paper-figure conference-poster">
   <a class="conference-poster__preview" href="{{ '/files/brazil-infrastructure-cs2nordics-2026.pdf' | relative_url }}">
     <img src="{{ '/images/brazil-infrastructure-cs2nordics-2026.webp' | relative_url }}" alt="" width="595" height="840" loading="lazy">
     <span>View poster (PDF)</span>
   </a>
-  <div class="conference-poster__details">
-    <p><strong>Infrastructure, Race, and Urban Change in Brazil – Who Benefits?</strong><br>
+  <figcaption class="conference-poster__details">
+    <p><span class="paper-figure__label">Figure 2.</span> <strong>Infrastructure, Race, and Urban Change in Brazil – Who Benefits?</strong><br>
     Constructing a National Database of Major Infrastructure Projects</p>
     <p>Fabio Schreiber, Lorena Melgaço, Luana Xavier Pinto Coelho, and Philipp Stark<br>
     Session 2P · Poster 26</p>
-  </div>
-</div>
+  </figcaption>
+</figure>
 
 ### Flash presentation
 

@@ -13,6 +13,7 @@ order: 3
 **Organisation:** Lund University, in collaboration with RISE  
 **Period:** 2025  
 **Status:** Completed
+{: .project-metadata }
 
 ## Purpose
 

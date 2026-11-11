@@ -14,6 +14,7 @@ research_output: "[Published article](https://www.tandfonline.com/doi/full/10.10
 **Organisation:** Lund University, Sociology Department  
 **Period:** April–December 2024  
 **Status:** Completed
+{: .project-metadata }
 
 ## Project focus
 

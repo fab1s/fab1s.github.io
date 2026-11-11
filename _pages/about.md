@@ -8,6 +8,18 @@ I am a Research Engineer at the Methods Centre, Lund University, working at the 
 
 I earned my M.Sc. in Social Scientific Data Analysis at Lund University in 2025, following a B.A. in Sociology with a minor in Economics at LMU Munich. My [master's thesis, *Social Infrastructure and Structural (Dis)advantage*](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9209189&fileOId=9209190), developed with RISE, assessed equity in access to social infrastructure in Skåne County using GIS, road network accessibility, and geographically weighted regression.
 
+## Selected projects
+
+{% assign projects = site.portfolio | sort: 'order' %}
+{% assign selected_projects = projects | slice: 0, 3 %}
+<div class="project-list">
+{% for project in selected_projects %}
+  {% include project-card.html project=project heading='h3' %}
+{% endfor %}
+</div>
+
+[All projects →](/projects/)
+
 ## Experience
 
 **Research Engineer** · [Lund Social Science Methods Centre, Lund University](https://www.sam.lu.se/en/research/lund-social-science-methods-centre)<br>
@@ -49,15 +61,3 @@ Lund University · 2023–2025
 
 **B.A. Sociology, minor in Economics**  
 LMU Munich · 2019–2023
-
-## Selected projects
-
-{% assign projects = site.portfolio | sort: 'order' %}
-{% assign selected_projects = projects | slice: 0, 3 %}
-<div class="project-grid">
-{% for project in selected_projects %}
-  {% include project-card.html project=project heading='h3' %}
-{% endfor %}
-</div>
-
-[All projects →](/projects/)

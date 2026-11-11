@@ -15,7 +15,10 @@ Read papers in Zotero and write notes in Obsidian, with a link connecting the tw
 
 Create a literature note from a Zotero link, or connect a note you already have. The plugin can keep links up to date when you move or rename a note.
 
-![An Obsidian literature note with a link to its Zotero source](/images/zotero-literature-note.png)
+<figure class="paper-figure">
+  <img src="{{ page.preview_image | relative_url }}" alt="{{ page.preview_alt | escape }}" width="991" height="412" loading="lazy">
+  <figcaption><span class="paper-figure__label">Figure 1.</span> A literature note in Obsidian with a link back to its Zotero entry.</figcaption>
+</figure>
 
 [Code and installation instructions on GitHub](https://github.com/fab1s/zotero-literature-link).
 
