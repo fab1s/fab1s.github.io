@@ -11,9 +11,9 @@ preview_alt: "An Obsidian literature note with a link to its Zotero source"
 github: "https://github.com/fab1s/zotero-literature-link"
 ---
 
-Read papers in Zotero and write notes in Obsidian, with a link connecting the two. One click opens a paper’s notes from Zotero, or takes you from a note back to that paper’s Zotero entry. No need to search for the matching note or reference.
+If you keep references and PDFs in Zotero and write literature notes in Obsidian, you often want to open your notes while looking at a paper. A link in the Obsidian note can take you back to the source. From the Zotero item, finding the matching note meant searching in Obsidian or adding and maintaining a link by hand.
 
-Create a literature note from a Zotero link, or connect a note you already have. The plugin can keep links up to date when you move or rename a note.
+When you create a literature note from a Zotero link, the plugin creates links in both directions. It puts a link to the source in the note and adds an **Obsidian attachment** alongside the PDF in Zotero. You can also add that attachment for an existing note that already links to the Zotero item. After Zotero syncs, the attachment opens the matching note directly. The plugin can update the attachment link when you move or rename the note.
 
 <div class="paper-figure-pair">
   <figure class="paper-figure">
