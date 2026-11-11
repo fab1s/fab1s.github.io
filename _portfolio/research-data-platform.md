@@ -6,6 +6,8 @@ area: "Research data platforms"
 group: "Current work"
 period: "2026–present"
 order: 2
+preview_image: "/images/rissi-catalogue.png"
+preview_alt: "Dataset search results alongside filters for access, previews, documentation, and file type"
 ---
 
 
@@ -22,8 +24,8 @@ RISSI is a proof of concept for a research data platform built by social scienti
 The platform brings together metadata and prepared previews from third-party open-data sources, alongside documentation, provenance, and rights information.
 
 <figure class="paper-figure">
-  <a href="{{ '/images/rissi-catalogue.png' | relative_url }}">
-    <img src="{{ '/images/rissi-catalogue.png' | relative_url }}" alt="Dataset search results alongside filters for access, previews, documentation, and file type" width="3024" height="1718" loading="lazy">
+  <a href="{{ page.preview_image | relative_url }}">
+    <img src="{{ page.preview_image | relative_url }}" alt="{{ page.preview_alt | escape }}" width="3024" height="1718" loading="lazy">
     <span>View full-size screenshot</span>
   </a>
   <figcaption><span class="paper-figure__label">Figure 1.</span> The RISSI catalogue showing dataset records from Researchdata.se.</figcaption>
