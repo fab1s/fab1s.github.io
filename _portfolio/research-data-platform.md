@@ -23,7 +23,7 @@ The platform brings together metadata and prepared previews from third-party ope
 
 <figure class="paper-figure">
   <a href="{{ '/images/rissi-catalogue.png' | relative_url }}">
-    <img src="{{ '/images/rissi-catalogue.png' | relative_url }}" alt="Dataset search results alongside filters for access, previews, documentation, and file type" width="3024" height="1728" loading="lazy">
+    <img src="{{ '/images/rissi-catalogue.png' | relative_url }}" alt="Dataset search results alongside filters for access, previews, documentation, and file type" width="3024" height="1718" loading="lazy">
     <span>View full-size screenshot</span>
   </a>
   <figcaption><span class="paper-figure__label">Figure 1.</span> The RISSI catalogue showing dataset records from Researchdata.se.</figcaption>
