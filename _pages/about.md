@@ -2,39 +2,17 @@
 title: About Me
 permalink: /
 layout: single
+contents:
+  - Experience
+  - Skills
+  - Education
+  - Selected projects
+  - Conference presentations
 ---
 
 I am a Research Engineer at the Methods Centre, Lund University, working at the intersection of **sociology**, **quantitative methods**, and **geospatial analysis**. I develop a research data platform for the Faculty of Social Sciences, built by social scientists for social scientists. I am also in the early stages of exploring how GPS-based mobility data and sociological theory can help us understand where people from different social groups spend time and how much their routines overlap.
 
 I earned my M.Sc. in Social Scientific Data Analysis at Lund University in 2025, following a B.A. in Sociology with a minor in Economics at LMU Munich. My [master's thesis, *Social Infrastructure and Structural (Dis)advantage*](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9209189&fileOId=9209190), developed with RISE, assessed equity in access to social infrastructure in Skåne County using GIS, road network accessibility, and geographically weighted regression.
-
-## Selected projects
-
-{% assign projects = site.portfolio | sort: 'order' %}
-{% assign selected_projects = projects | slice: 0, 3 %}
-<div class="project-list">
-{% for project in selected_projects %}
-  {% include project-card.html project=project heading='h3' %}
-{% endfor %}
-</div>
-
-[All projects →](/projects/)
-
-## Conference presentations
-
-### Infrastructure, Race, and Urban Change in Brazil – Who Benefits?
-
-<figure class="paper-figure conference-poster">
-  <a class="conference-poster__preview" href="{{ '/files/brazil-infrastructure-cs2nordics-2026.pdf' | relative_url }}">
-    <img src="{{ '/images/brazil-infrastructure-cs2nordics-2026.webp' | relative_url }}" alt="" width="595" height="840" loading="lazy">
-    <span>View poster (PDF)</span>
-  </a>
-  <figcaption class="conference-poster__details">
-    <p><strong>CS2Nordics 2026</strong><br>
-    22 September 2026 · Aalborg University, Copenhagen</p>
-    <p><a href="{{ '/projects/brazil-infrastructure/' | relative_url }}#flash-presentation">Flash presentation</a></p>
-  </figcaption>
-</figure>
 
 ## Experience
 
@@ -77,3 +55,31 @@ Lund University · 2023–2025
 
 **B.A. Sociology, minor in Economics**  
 LMU Munich · 2019–2023
+
+## Selected projects
+
+{% assign projects = site.portfolio | sort: 'order' %}
+{% assign selected_projects = projects | slice: 0, 3 %}
+<div class="project-list">
+{% for project in selected_projects %}
+  {% include project-card.html project=project heading='h3' %}
+{% endfor %}
+</div>
+
+[All projects →](/projects/)
+
+## Conference presentations
+
+### Infrastructure, Race, and Urban Change in Brazil – Who Benefits?
+
+<figure class="paper-figure conference-poster">
+  <a class="conference-poster__preview" href="{{ '/files/brazil-infrastructure-cs2nordics-2026.pdf' | relative_url }}">
+    <img src="{{ '/images/brazil-infrastructure-cs2nordics-2026.webp' | relative_url }}" alt="" width="595" height="840" loading="lazy">
+    <span>View poster (PDF)</span>
+  </a>
+  <figcaption class="conference-poster__details">
+    <p><strong>CS2Nordics 2026</strong><br>
+    22 September 2026 · Aalborg University, Copenhagen</p>
+    <p><a href="{{ '/projects/brazil-infrastructure/' | relative_url }}#flash-presentation">Flash presentation</a></p>
+  </figcaption>
+</figure>
