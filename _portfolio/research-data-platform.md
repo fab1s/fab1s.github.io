@@ -17,7 +17,7 @@ order: 2
 
 ## Purpose
 
-RISSI is a research-data discovery and exploration platform. It is primarily intended for the Faculty of Social Sciences at Lund University, while remaining useful to anyone who wants to evaluate research data before working with it in depth.
+RISSI is a proof of concept for a research data platform built by social scientists for social scientists. It is designed for the Faculty of Social Sciences at Lund University and helps researchers find, assess, and explore datasets before using them in their work.
 
 The platform brings together metadata and prepared previews from third-party open-data sources, alongside documentation, provenance, and rights information.
 
@@ -31,7 +31,7 @@ The platform brings together metadata and prepared previews from third-party ope
 
 ## My contribution
 
-I develop the project end to end using **agentic engineering**. This includes making product and technical decisions, and building the data workflows, discovery interface, previews, visualisations, and analysis features.
+I make design and technical decisions for the prototype and build the data workflows, catalogue, previews, visualisations, and analysis tools.
 
 ## What researchers can do
 
